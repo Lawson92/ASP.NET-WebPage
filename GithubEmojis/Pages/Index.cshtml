@@ -1,0 +1,14 @@
+﻿@page
+@model IndexModel
+@{
+
+}
+<h1>Github Emojis</h1>
+<div class="allEmojis">
+    @foreach (var em in Model.Emojis) {
+        <div class="allEmojis">
+            <img src="@em.Url" alt="Emoji - @em.Key" height="128" width="128"/>
+            <code>@em.Key</code>
+        </div>
+     }
+</div>

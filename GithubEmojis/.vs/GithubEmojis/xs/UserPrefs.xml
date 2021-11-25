@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D60D73BA-A35D-46EE-9053-AE933CFBC2C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+    <Files>
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="12" Column="5" />
+      <File FileName="Emoji.cs" Line="13" Column="9" />
+      <File FileName="GithubEmojiService.cs" Line="9" Column="54" />
+      <File FileName="IGithubEmojiService.cs" Line="6" Column="41" />
+      <File FileName="Startup.cs" Line="26" Column="13" />
+      <File FileName="Pages/Index.cshtml.cs" Line="13" Column="51" />
+      <File FileName="Pages/Index.cshtml" Line="8" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GithubEmojis" expanded="True">
+            <Node name="GithubEmojis" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GithubEmojis PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
